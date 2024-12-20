@@ -6,6 +6,8 @@ import Title from "./components/partials/title/Title";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import Line from "./components/line/Line";
+import Outils from "./components/outils/Outils";
+
 
 
 
@@ -21,8 +23,10 @@ function App() {
         <div className="container">
           <Title title='A propos de Moi'/>
           <About/>
+          <Title title="Mes Outils" />
           
         </div>
+        <Outils />
         <div className="container">
             <Title title="Contacter " />
             <Contact />
