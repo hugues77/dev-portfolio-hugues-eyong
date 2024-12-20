@@ -3,6 +3,10 @@ import Header from "./components/header/Header";
 import About from "./components/about/About";
 import Title from "./components/partials/title/Title";
 
+import Contact from "./components/contact/Contact";
+import Footer from "./components/footer/Footer";
+import Line from "./components/line/Line";
+
 
 
 
@@ -19,6 +23,14 @@ function App() {
           <About/>
           
         </div>
+        <div className="container">
+            <Title title="Contacter " />
+            <Contact />
+          </div>
+          <Line />
+          <div className="container">
+            <Footer />
+          </div>
 
 
       </div>
