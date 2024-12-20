@@ -30,11 +30,11 @@ function App() {
         <div className="container">
             <Title title="Contacter " />
             <Contact />
-          </div>
-          <Line />
-          <div className="container">
-            <Footer />
-          </div>
+        </div>
+        <Line />
+        <div className="container">
+          <Footer />
+        </div>
 
 
       </div>
