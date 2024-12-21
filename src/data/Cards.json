@@ -28,21 +28,21 @@
     },
     {
         "id":4,
-        "urlImage":"/src/assets/card/portfolio_projet_8.jpg",
+        "urlImage":"src/assets/card/portfolio_projet_8.jpg",
         "categ":"react",
         "title": "Projet portfolio de Hugues Eyong",
         "description": "C'est mon portfolio développeur developpé en React, Sass tout en faisant un tour des trois autres bibliothèques react dans le but de vous présenter mon parcours, mes compétences acquises au cours de cette formation et les differents projets réalisés de manière professionnelle.",
         "urlGithub":"https://github.com/hugues77/my-portfolio",
-        "urlImagePreview":"/src/assets/card/preview/portfolio_projet_8.png"
+        "urlImagePreview":"src/assets/card/preview/portfolio_projet_8.png"
     },
     {
         "id":5,
-        "urlImage":"/src/assets/card/sophie_projet_3.jpg",
+        "urlImage":"src/assets/card/sophie_projet_3.jpg",
         "categ":"javascript",
         "title": "Création d'un site dynamique pour un architecte",
         "description": "Le projet Sophie Bluel, se resume sur la création d'une page web dynamique en JavaScript tout en communiquant avec une API. Le front-end consistait de donner les moyens à l'architecte de publier tous ses traveaux et les sauvegarder dans l'API, les modifier et en meme temps les supprimer si bésoin.",
         "urlGithub":"https://github.com/hugues77/Architecte-sophie-bluel",
-        "urlImagePreview":"/src/assets/card/preview/sophie_projet_3.png"
+        "urlImagePreview":"src/assets/card/preview/sophie_projet_3.png"
     },
     {
         "id":6,
