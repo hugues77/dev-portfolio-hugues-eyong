@@ -37,7 +37,7 @@
     },
     {
         "id":5,
-        "urlImage":"src/assets/card/sophie_projet_3.jpg",
+        "urlImage":"https://dev-portfolio-hugues-eyong.vercel.app/assets/sophie_projet_3-BsmeGF6f.jpg",
         "categ":"javascript",
         "title": "Création d'un site dynamique pour un architecte",
         "description": "Le projet Sophie Bluel, se resume sur la création d'une page web dynamique en JavaScript tout en communiquant avec une API. Le front-end consistait de donner les moyens à l'architecte de publier tous ses traveaux et les sauvegarder dans l'API, les modifier et en meme temps les supprimer si bésoin.",
