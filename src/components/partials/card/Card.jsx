@@ -6,7 +6,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import { faEye } from '@fortawesome/free-regular-svg-icons'
 import {  faClose, faCode, faGlobe } from '@fortawesome/free-solid-svg-icons';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
-// import imgPreview from '../../../assets/card/preview/sophie_projet_3.png';
+import imgPreview from '../../../assets/card/preview/sophie_projet_3.png';
+import imgCard from '../../../assets/card/sophie_projet_3.jpg';
 import { motion } from "motion/react";
 
 
@@ -91,7 +92,7 @@ const filterItems = (categ) =>{
                     transition={{duration: 0.4}}
                     className="card-content" key={res.id} >
                         <div className="card-header">
-                            <img src={res.urlImage} alt="" /> 
+                            <img src={imgCard} alt={res.id} /> 
                             <div className="caption">
                                 <FontAwesomeIcon  icon={faCode} className='icon_caption' />
                                 <div className="buttons">
@@ -105,7 +106,7 @@ const filterItems = (categ) =>{
                                                 <div><FontAwesomeIcon onClick={() => modalButton()} icon={faClose} className='icon' /></div>
                                             </div><hr />
                                             <div className="modal-body">
-                                                <img src={res.urlImagePreview} alt="" />
+                                                <img src={imgPreview} alt={res.id} />
                                             </div>
                                         </div>
                                     </div>)}
