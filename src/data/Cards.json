@@ -1,12 +1,12 @@
 [
     {
         "id":1,
-        "urlImage":"/assets/card/booki_projet_2.jpg",
+        "urlImage":"http://localhost:5173/src/assets/card/booki_projet_2.jpg",
         "categ":"HTML & CSS",
         "title": "site d'une agence de voyage Booki",
         "description": "Booki, c'est un projet développé en HTML et CSS dans l'objectif de présenter des offres des voyages pour des clients, il est question de mettre en avant les techniques du flexbox et d'intégrer l'interface responsive de la page en respectant la maquette figma ",
         "urlGithub":"https://github.com/hugues77/booki",
-        "urlImagePreview":"/assets/card/preview/booki_projet_2.png"
+        "urlImagePreview":"http://localhost:5173/src/assets/card/preview/booki_projet_2.png"
     },
     {
         "id":2,
