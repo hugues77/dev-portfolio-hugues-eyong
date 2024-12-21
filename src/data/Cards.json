@@ -10,7 +10,7 @@
     },
     {
         "id":2,
-        "urlImage":"/assets/card/secours_projet_php.jpg",
+        "urlImage":"https://secoursdeleternel.fr/images/sites/cultes/campagne_2024_Mockup.JPG",
         "categ":"php",
         "title": "site d'une association à metz avec gestion des membres ",
         "description": "C'est le projet complet d'une association développé en PHP et CSS, le site présente l'ensemble des activités et permettent aux membres de se connecter , soit de créer leur compte utilisateur, nous intégrons également l' API de youtube en vue d'afficher toutes les vidéos de la chaine youtube de l'association",
