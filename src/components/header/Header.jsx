@@ -23,7 +23,7 @@ const Header = () => {
           <div className="btn-group">
             <a className='voir' href="https://github.com/hugues77" target='blank'><FontAwesomeIcon icon={faGithub} className='icon' /> Voir mon github </a>
             {/* <a className='download' href= '#'><FontAwesomeIcon icon={faDownload} className='icon' />Télécharger mon CV </a> */}
-            <a  href= {cvhugues} download='cv-hugues-eyong-dev'  className='download'><FontAwesomeIcon icon={faDownload} className='icon' />Télécharger mon CV </a>
+            <a  href={cvhugues}  className='download_btn' alt="cv hugues eyong dev" download><FontAwesomeIcon icon={faDownload} className='icon' />Télécharger mon CV </a>
           </div>
         </div>
       </div> 
