@@ -1,6 +1,6 @@
 import './Header.scss';
 import  { Cursor, useTypewriter } from 'react-simple-typewriter'
-// import cvhugues from '../../assets/pdf/cv_hugues_eyong_dev.pdf'
+import {cvhugues} from 'https://secoursdeleternel.fr/images/portfolio-hugues/pdf/cv-hugues-eyong-dev.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faDownload } from '@fortawesome/free-solid-svg-icons';
@@ -23,7 +23,7 @@ const Header = () => {
           <div className="btn-group">
             <a className='voir' href="https://github.com/hugues77" target='blank'><FontAwesomeIcon icon={faGithub} className='icon' /> Voir mon github </a>
             {/* <a className='download' href= '#'><FontAwesomeIcon icon={faDownload} className='icon' />Télécharger mon CV </a> */}
-            <a  href= "https://secoursdeleternel.fr/images/portfolio-hugues/pdf/cv-hugues-eyong-dev.pdf" download  className='download'><FontAwesomeIcon icon={faDownload} className='icon' />Télécharger mon CV </a>
+            <a  href= {cvhugues} download='cv-hugues-eyong-dev'  className='download'><FontAwesomeIcon icon={faDownload} className='icon' />Télécharger mon CV </a>
           </div>
         </div>
       </div> 
