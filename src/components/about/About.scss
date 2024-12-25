@@ -61,10 +61,13 @@
               width: 90%;
             }
             &.javascript {
-              width: 70%;
+              width: 75%;
+            }
+            &.vuejs {
+              width: 60%;
             }
             &.php {
-              width: 80%;
+              width: 90%;
             }
             &.react {
               width: 70%;
@@ -74,9 +77,6 @@
             }
             &.mysql {
               width: 85%;
-            }
-            &.vue {
-              width: 60%;
             }
           }
         }

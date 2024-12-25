@@ -25,28 +25,28 @@ function About() {
                     <span>JAVASCRIPT</span>
                     <span>75%</span>
                   </div>
-                  <div className="line"><span className='node'></span></div>
+                  <div className="line"><span className='javascript'></span></div>
                 </div>
                 <div className="bar">
                   <div className="info">
                     <span>REACT</span>
-                    <span>75%</span>
+                    <span>70%</span>
                   </div>
-                  <div className="line"><span className='node'></span></div>
+                  <div className="line"><span className='react'></span></div>
                 </div>
                 <div className="bar">
                   <div className="info">
                     <span>Vue JS</span>
                     <span>60%</span>
                   </div>
-                  <div className="line"><span className='vue'></span></div>
+                  <div className="line"><span className='vuejs'></span></div>
                 </div>
                 <div className="bar">
                   <div className="info">
                     <span>NODEJS</span>
-                    <span>75%</span>
+                    <span>70%</span>
                   </div>
-                  <div className="line"><span className='node'></span></div>
+                  <div className="line"><span className='react'></span></div>
                 </div>
                 <div className="bar">
                   <div className="info">
