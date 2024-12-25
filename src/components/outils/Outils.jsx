@@ -10,19 +10,43 @@ function Outils() {
   return (
     <div className='outils'> 
       <div className="outils-content">
-          <div className="first-group"> 
-            <FontAwesomeIcon icon={faReact} className='icon' />
-            <FontAwesomeIcon icon={faPhp} className='icon' />
-            <FontAwesomeIcon icon={faHtml5} className='icon' />
-            <FontAwesomeIcon icon={faCss3} className='icon' />
-            <FontAwesomeIcon icon={faJsSquare} className='icon' />
-            <FontAwesomeIcon icon={faNode} className='icon' />
-            <FontAwesomeIcon icon={faDatabase} className='icon' />
-            <FontAwesomeIcon icon={faSass} className='icon' />
-            <FontAwesomeIcon icon={faGitAlt} className='icon' />
-            <FontAwesomeIcon icon={faBootstrap} className='icon' />
-            <FontAwesomeIcon icon={faVuejs} className='icon' />
-            <FontAwesomeIcon icon={faDocker} className='icon' />
+          <div className="first-group">
+            <div className='icon'>
+              <FontAwesomeIcon icon={faReact}  />
+            </div> 
+            <div className='icon'>
+              <FontAwesomeIcon icon={faPhp}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faHtml5}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faCss3}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faJsSquare}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faNode}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faDatabase}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faSass}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faGitAlt}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faBootstrap}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faVuejs}  />
+            </div>
+            <div className='icon'>
+              <FontAwesomeIcon icon={faDocker}  />
+            </div>
           </div>
       </div>
     </div>
