@@ -105,14 +105,20 @@ function About() {
             des projets adaptés aux besoins spécifiques des associations et
             d'autres particuliers. De plus, c'est en 2024 que je me suis engagé
             de réaliser une autre formation chez OpenClassrooms en développement
-            informatique. C'est à ce moment-là que j'ai pu valider l'équivalent
-            d'un diplôme de niveau Bac+2 qui m'a permis d'améliorer mes
-            compétences, à travers huit projets majeurs réalisés pendant la
-            formation, tant du JavaScript, React et Node.js sont des langages
-            que j'apprécie énormement. Ensuite, j'ai eu l'opportunité
-            d'améliorer l'optimisation du référencement SEO des applications web
-            pour une performance optimale en recourant à des outils comme Wave,
-            lighthouse...
+            informatique.{" "}
+          </p>
+          <p>
+            C'est à ce moment-là que j'ai pu valider l'équivalent d'un diplôme
+            de niveau Bac+2 qui m'a permis d'améliorer mes compétences, à
+            travers huit projets majeurs réalisés pendant la formation, tant du
+            JavaScript, React et Node.js sont des langages que j'apprécie
+            énormement.
+          </p>
+          <p>
+            {" "}
+            Ensuite, j'ai eu l'opportunité d'améliorer l'optimisation du
+            référencement SEO des applications web pour une performance optimale
+            en recourant à des outils comme Wave, lighthouse...
           </p>
           <p>
             Ce portfolio est le reflet de mes compétences professionnelles,
