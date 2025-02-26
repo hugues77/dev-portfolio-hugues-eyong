@@ -24,14 +24,11 @@ const Header = () => {
             </span>
           </h2>
           <p>
-            Passionné du développement<span> web et ses technologies</span>. je
-            suis activement à la recherche des nouvelles opportunités{" "}
-            <span>pour concilier mes acquis en frontend et backend </span> ayant
-            déjà{" "}
-            <span>
-              travailler et collaborer dans divers projets en PHP, React,
-              Javascript et Nodejs(Express).
-            </span>{" "}
+            Passionné du développement <span> web et de ses technologies.</span>
+            Je suis activement à la recherche de nouvelles opportunités pour
+            concilier <span>mes acquis en frontend et backend.</span> Ayant déjà
+            travaillé et collaboré dans divers projets en PHP, React, Javascript
+            et Nodejs (Express).
           </p>
 
           <div className="btn-group">
