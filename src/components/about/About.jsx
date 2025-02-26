@@ -92,7 +92,7 @@ function About() {
           <p>
             Actuellement, je travaille en tant que développeur web chez ID
             Baali. Mon objectif est de progresser dans le métier du web car
-            depuis longtemps, je suis passionné par le métier du web.
+            depuis longtemps, je suis passionné par ce métier.
           </p>
           <p>
             Cette passion m'a toujours poussé à me cultiver et à en apprendre
@@ -100,7 +100,7 @@ function About() {
             avancées technologiques liées au web, afin d'atteindre cet objectif.
           </p>
           <p>
-            Après avoir terminé un DUT en Informatique en 2018 (diplôme non
+            Après avoir terminé un DUT en Informatique en 2019 (diplôme non
             validé), Je me suis tourné vers le travail indépendant en réalisant
             des projets adaptés aux besoins spécifiques des associations et
             d'autres particuliers. De plus, c'est en 2024 que je me suis engagé
@@ -111,7 +111,7 @@ function About() {
             C'est à ce moment-là que j'ai pu valider l'équivalent d'un diplôme
             de niveau Bac+2 qui m'a permis d'améliorer mes compétences, à
             travers huit projets majeurs réalisés pendant la formation, tant du
-            JavaScript, React et Node.js sont des langages que j'apprécie
+            JavaScript, React et Node.js qui sont des langages que j'apprécie
             énormement.
           </p>
           <p>
@@ -123,8 +123,8 @@ function About() {
           <p>
             Ce portfolio est le reflet de mes compétences professionnelles,
             affinées en React. c'est l'expertise que j'ai acquise dans le but de
-            de vous donner un aperçu général de mon et j'ai tellement hâte de
-            vous apporter cette expérience inédite.
+            vous donner un aperçu général de mon parcours et j'ai tellement hâte
+            de vous apporter cette expérience inédite.
           </p>
           <a
             className="p_linkedin"
